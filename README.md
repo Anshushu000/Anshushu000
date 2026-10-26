@@ -1,4 +1,3 @@
-
 <!--
 **Anshushu000/Anshushu000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,8 +30,6 @@ Interested in **Mobile Development, Cloud, Backend, Data and AI**.
 
 <div align="center">
 
-<div align="center">
-
 <a href="https://developer.apple.com/swift/"><img src="https://skillicons.dev/icons?i=swift" alt="Swift"/></a>
 <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
@@ -40,7 +37,7 @@ Interested in **Mobile Development, Cloud, Backend, Data and AI**.
 <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot"/></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"/></a>
 
-</div>
+**iOS:** SwiftUI · UIKit (View Code) · MVVM · Core Data · CloudKit · Swift Testing
 
 </div>
 
@@ -48,20 +45,24 @@ Interested in **Mobile Development, Cloud, Backend, Data and AI**.
 
 ### Featured Projects
 
+**Pipa — Para Partilhar** *(ongoing)*
+iOS application developed collaboratively with **Swift, SwiftUI, CloudKit and Swift Testing**, distributing household chores fairly among housemates. I developed the chore distribution algorithm with unit and integration tests, and worked on async/await, Apple Calendar and Apple Intelligence integrations.
+[App Store](https://apps.apple.com/br/app/pipa-para-partilhar/id6799178383)
+
 **Reune — Junte seus amigos**
 iOS application developed collaboratively with **Swift, SwiftUI and CloudKit**, using iCloud for data storage and synchronization.
 [App Store](https://apps.apple.com/br/app/reune-junte-seus-amigos/id6771074080)
 
 **SoundStain**
-iOS application developed collaboratively with **Swift, UIKit, Metal, AVFoundation and ShazamKit**, transforming frequency and altitude data into visual representations.
+iOS application developed collaboratively with **Swift, UIKit (View Code), Metal, AVFoundation and ShazamKit**, transforming audio frequency and amplitude into visual representations.
 [App Store](https://apps.apple.com/br/app/soundstain/id6761776133)
 
 **Tacto — Música em Braille**
-Educational iOS application focused on **accessibility**, developed with Swift, SwiftUI and MVVM.
+Educational iOS application focused on **accessibility**, developed with **Swift, SwiftUI, MVVM and Core Data**.
 [App Store](https://apps.apple.com/br/app/tacto-m%C3%BAsica-em-braille/id6754394391)
 
 **TeaBrew**
-Independent iOS application developed with **Swift, SwiftUI and MVVM**.
+Independent time-management iOS application (Pomodoro timer, calendar tasks and timeline history), developed with **Swift, SwiftUI, MVVM and Core Data**.
 [App Store](https://apps.apple.com/br/app/teabrew/id6749084085)
 
 **Bahtche**
@@ -87,7 +88,9 @@ Research project *(in progress)* involving **Python, nnU-Net, Flower, Federated 
 
 </div>
 
-**iOS Development** · **Artificial Intelligence** · **Deep Learning**
+**iOS:** CloudKit · Apple Intelligence · Foundation Models
+
+**AI (TCC):** Deep Learning · Federated Learning · Medical Image Segmentation
 
 ---
 
