@@ -28,6 +28,9 @@ Also interested in **Cloud, Backend, Data and AI**.
 
 ## 🧪 Other projects
 
+- [**ChristmasVision (Merry Decor)**](https://github.com/Anshushu000/ChristmasVision): visionOS catalog of 3D Christmas decorations; each item opens in its own volumetric window and can be rotated and scaled with gestures (SwiftUI, RealityKit, Reality Composer Pro)
+- [**Judite**](https://github.com/Anshushu000/JuditeApp): app that "guesses" your zodiac sign from a photo using an image classification model (SwiftUI, Core ML)
+- [**Dama Quiz Terminal**](https://github.com/Anshushu000/Dama-Quiz-Terminal): checkers mixed with a quiz, played in the macOS terminal with ASCII art (Swift)
 - [**Bahtche**](https://gitlab.com/grupo34664510/bahtche): academic web project (Java, Spring Boot, JavaScript, MySQL, JUnit, PlantUML)
 
 ## 🔬 Research
@@ -50,7 +53,7 @@ Python, nnU-Net, Flower, Federated Learning and MedGemma.
 
 </div>
 
-**iOS:** Swift · SwiftUI · UIKit (View Code) · Core Data · CloudKit · AVFoundation · ShazamKit · EventKit · Foundation Models
+**iOS / visionOS:** Swift · SwiftUI · UIKit (View Code) · Core Data · CloudKit · RealityKit · Core ML · AVFoundation · ShazamKit · EventKit · Foundation Models
 
 **Architecture & quality:** MVVM · async/await · Swift Testing · Accessibility
 
